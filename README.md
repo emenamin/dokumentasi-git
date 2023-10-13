@@ -1,7 +1,7 @@
 # dokumentasi-git
 
 ## Cara Menggunakan Git untuk Tracking Perubahan Versi
-Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4. Tutorial ini untuk kebutuhan pribadi dalam belajar menggunakan Git.
+Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behind it. Tutorial ini untuk kebutuhan pribadi dalam belajar menggunakan Git.
 
 ### 1. Inisialisasi Repository Lokal:
 
