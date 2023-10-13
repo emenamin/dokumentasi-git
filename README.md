@@ -7,7 +7,7 @@ Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4. Tutorial ini untuk keb
 
 - Buka terminal atau command prompt.
 - Pergi ke direktori tempat kode Anda disimpan.
-- Ketik **git init** untuk menginisialisasi direktori sebagai repository Git.
+- Ketik ```git init``` untuk menginisialisasi direktori sebagai repository Git.
 
 ### 2. Tambahkan File ke Staging Area:
 
