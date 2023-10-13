@@ -34,6 +34,24 @@ Setelah Anda selesai dengan perubahan di branch tersebut, Anda bisa menggabungka
 
 - Jika Anda memiliki perubahan yang belum siap untuk di-commit, tetapi Anda ingin menyimpannya untuk sementara, Anda bisa menggunakan ```git stash```. Nanti, Anda dapat mengambil perubahan tersebut kembali dengan ```git stash apply```.
 
+## Pre-requisite Knowledge
+Ternyata perlu tahu cara menggunakan Command Prompt; mengetahui perintah-perintahnya. 
+
+### Cara Masuk ke Direktori
+Buka Command Prompt:
+Anda dapat menekan Win + R, ketik cmd, lalu tekan Enter atau mencari cmd atau Command Prompt di menu Start.
+
+Gunakan Perintah cd:
+Ketik cd diikuti dengan path (alamat) direktori yang Anda ingin tuju. Misalnya, jika kode Anda disimpan di direktori C:\Users\YourName\Documents\MyCode, Anda akan mengetik:
+
+bash
+Copy code
+cd C:\Users\YourName\Documents\MyCode
+Kemudian tekan Enter.
+
+Verifikasi Direktori Saat Ini:
+Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di direktori yang benar dengan mengetik perintah dir. Ini akan menampilkan daftar file dan sub-direktori di direktori saat ini.
+
 ## Glosary
 - **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis.
 - **Direktori** : istilah untuk menyebut folder
