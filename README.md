@@ -38,19 +38,29 @@ Setelah Anda selesai dengan perubahan di branch tersebut, Anda bisa menggabungka
 Ternyata perlu tahu cara menggunakan Command Prompt; mengetahui perintah-perintahnya. 
 
 ### Cara Masuk ke Direktori
-Buka Command Prompt:
-Anda dapat menekan Win + R, ketik cmd, lalu tekan Enter atau mencari cmd atau Command Prompt di menu Start.
 
-Gunakan Perintah cd:
-Ketik cd diikuti dengan path (alamat) direktori yang Anda ingin tuju. Misalnya, jika kode Anda disimpan di direktori C:\Users\YourName\Documents\MyCode, Anda akan mengetik:
+**1. Buka Command Prompt:**
+Anda dapat menekan **Win + R**, ketik **cmd**, lalu tekan **Enter** atau mencari cmd atau Command Prompt di menu Start.
+
+**2. Gunakan Perintah ```cd```:**
+Ketik ```cd``` diikuti dengan path (alamat) direktori yang Anda ingin tuju. Misalnya, jika kode Anda disimpan di direktori ```C:\Users\YourName\Documents\MyCode```, Anda akan mengetik:
 
 ```
 cd C:\Users\YourName\Documents\MyCode
 ```
-Kemudian tekan Enter.
+Kemudian tekan **Enter**.
 
-Verifikasi Direktori Saat Ini:
+**3. Verifikasi Direktori Saat Ini:**
 Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di direktori yang benar dengan mengetik perintah dir. Ini akan menampilkan daftar file dan sub-direktori di direktori saat ini.
+
+**Tips:**
+- Jika Anda ingin kembali ke direktori root dari drive saat ini, cukup ketik cd\ dan tekan Enter.
+- Jika Anda ingin berpindah ke drive lain, misalnya dari drive C: ke drive D:, Anda hanya perlu mengetik nama drive diikuti dengan titik dua, seperti D: dan tekan Enter.
+- Anda juga dapat menggunakan Tab untuk auto-complete nama file atau direktori saat mengetik di CMD. Ini dapat mempercepat proses pengetikan path direktori.
+- Jika direktori Anda memiliki spasi di dalam namanya, pastikan Anda memasukkannya di antara tanda kutip ganda, misalnya:
+```
+cd "C:\Users\Your Name\Documents\My Code"
+```
 
 ## Glosary
 - **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis.
