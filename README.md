@@ -33,3 +33,6 @@ Setelah Anda selesai dengan perubahan di branch tersebut, Anda bisa menggabungka
 ### 7. Menyimpan Perubahan tanpa Commit:
 
 - Jika Anda memiliki perubahan yang belum siap untuk di-commit, tetapi Anda ingin menyimpannya untuk sementara, Anda bisa menggunakan **git stash**. Nanti, Anda dapat mengambil perubahan tersebut kembali dengan **git stash apply**.
+
+## Glosary
+- Terminal (Console) : 
