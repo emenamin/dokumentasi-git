@@ -44,9 +44,9 @@ Anda dapat menekan Win + R, ketik cmd, lalu tekan Enter atau mencari cmd atau Co
 Gunakan Perintah cd:
 Ketik cd diikuti dengan path (alamat) direktori yang Anda ingin tuju. Misalnya, jika kode Anda disimpan di direktori C:\Users\YourName\Documents\MyCode, Anda akan mengetik:
 
-bash
-Copy code
+```
 cd C:\Users\YourName\Documents\MyCode
+```
 Kemudian tekan Enter.
 
 Verifikasi Direktori Saat Ini:
