@@ -54,8 +54,8 @@ Kemudian tekan **Enter**.
 Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di direktori yang benar dengan mengetik perintah dir. Ini akan menampilkan daftar file dan sub-direktori di direktori saat ini.
 
 **Tips:**
-- Jika Anda ingin kembali ke direktori root dari drive saat ini, cukup ketik cd\ dan tekan Enter.
-- Jika Anda ingin berpindah ke drive lain, misalnya dari drive C: ke drive D:, Anda hanya perlu mengetik nama drive diikuti dengan titik dua, seperti D: dan tekan Enter.
+- Jika Anda ingin kembali ke direktori root dari drive saat ini, cukup ketik ```cd\``` dan tekan **Enter**.
+- Jika Anda ingin berpindah ke drive lain, misalnya dari drive ```C:``` ke drive ```D:```, Anda hanya perlu mengetik nama drive diikuti dengan titik dua, seperti ```D:``` dan tekan Enter.
 - Anda juga dapat menggunakan Tab untuk auto-complete nama file atau direktori saat mengetik di CMD. Ini dapat mempercepat proses pengetikan path direktori.
 - Jika direktori Anda memiliki spasi di dalam namanya, pastikan Anda memasukkannya di antara tanda kutip ganda, misalnya:
 ```
