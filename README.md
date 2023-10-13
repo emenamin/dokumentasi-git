@@ -35,4 +35,5 @@ Setelah Anda selesai dengan perubahan di branch tersebut, Anda bisa menggabungka
 - Jika Anda memiliki perubahan yang belum siap untuk di-commit, tetapi Anda ingin menyimpannya untuk sementara, Anda bisa menggunakan **git stash**. Nanti, Anda dapat mengambil perubahan tersebut kembali dengan **git stash apply**.
 
 ## Glosary
-- Terminal (Console) : 
+- **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis.
+- **Direktori** : istilah untuk menyebut folder
