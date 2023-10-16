@@ -11,7 +11,8 @@
 
 ## Daftar Perintah CMD
 - cd (change directory)
-- dir 
+- dir
+- code <nama file> (di VS Code) atau notepad <nama file> (di notepad) : untuk membuka file code
 
 ## Cara Menggunakan Git untuk Tracking Perubahan Versi
 Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behind it. Tutorial ini untuk kebutuhan pribadi dalam belajar menggunakan Git.
