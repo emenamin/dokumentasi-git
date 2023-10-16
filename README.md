@@ -80,6 +80,6 @@ cd "C:\Users\Your Name\Documents\My Code"
 ###
 
 ## Glosary
-- **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis.
+- **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis (GUI).
 - **Direktori** : istilah untuk menyebut folder
 - **Staging**
