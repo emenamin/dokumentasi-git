@@ -13,6 +13,7 @@
 - cd (change directory)
 - dir
 - code <nama file> (di VS Code) atau notepad <nama file> (di notepad) : untuk membuka file code
+- q : quit (digunakan untuk keluar dari mode pager -- sebuah konten yg bisa dinavigasi. contoh, pager less dan more ketika melakukan git log)
 
 ## Cara Menggunakan Git untuk Tracking Perubahan Versi
 Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behind it. Tutorial ini untuk kebutuhan pribadi dalam belajar menggunakan Git.
