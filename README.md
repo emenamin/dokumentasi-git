@@ -12,6 +12,7 @@ Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behi
 ### 2. Tambahkan File ke Staging Area:
 
 - Setelah melakukan perubahan pada file Anda, tambahkan mereka ke _staging area_ dengan menggunakan ```git add .``` (tanda titik di akhir untuk menambahkan semua file) atau ```git add <nama_file>``` untuk menambahkan file tertentu.
+- Apa itu Staging Area dalam Git?
 
 ### 3. Commit Perubahan Anda:
 
@@ -61,6 +62,7 @@ Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di di
 ```
 cd "C:\Users\Your Name\Documents\My Code"
 ```
+###
 
 ## Glosary
 - **Terminal (Console/Command Prompt)** : Tempat buat ngetik perintah (a.k.a. antar muka baris perintah). Kalau yang di front-end, disebut antarmuka grafis.
