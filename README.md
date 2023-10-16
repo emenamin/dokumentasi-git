@@ -51,7 +51,7 @@ cd C:\Users\YourName\Documents\MyCode
 Kemudian tekan **Enter**.
 
 **3. Verifikasi Direktori Saat Ini:**
-Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di direktori yang benar dengan mengetik perintah dir. Ini akan menampilkan daftar file dan sub-direktori di direktori saat ini.
+Setelah memasukkan perintah cd, Anda dapat memverifikasi bahwa Anda berada di direktori yang benar dengan mengetik perintah ```dir```. Ini akan menampilkan daftar file dan sub-direktori di direktori saat ini.
 
 **Tips:**
 - Jika Anda ingin kembali ke direktori root dari drive saat ini, cukup ketik ```cd\``` dan tekan **Enter**.
