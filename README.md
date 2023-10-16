@@ -1,5 +1,18 @@
 # dokumentasi-git
 
+## Daftar Perintah Git (Basic)
+- git init
+- git add
+- git commit
+- git log
+- git status
+- git reset
+- git config
+
+## Daftar Perintah CMD
+- cd (change directory)
+- dir 
+
 ## Cara Menggunakan Git untuk Tracking Perubahan Versi
 Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behind it. Tutorial ini untuk kebutuhan pribadi dalam belajar menggunakan Git.
 
