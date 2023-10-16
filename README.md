@@ -11,7 +11,7 @@ Disclaimer: Tutorial ini adalah hasil generate ChatGPT-4 thanks to everyone behi
 
 ### 2. Tambahkan File ke Staging Area:
 
-- Setelah melakukan perubahan pada file Anda, tambahkan mereka ke _staging area_ dengan menggunakan ```git add```. (tanda titik di akhir untuk menambahkan semua file) atau ```git add <nama_file>``` untuk menambahkan file tertentu.
+- Setelah melakukan perubahan pada file Anda, tambahkan mereka ke _staging area_ dengan menggunakan ```git add .``` (tanda titik di akhir untuk menambahkan semua file) atau ```git add <nama_file>``` untuk menambahkan file tertentu.
 
 ### 3. Commit Perubahan Anda:
 
